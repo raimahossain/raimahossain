@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raimahossain
 - 👀 I’m interested in Software Engineering and Web Development
-- 💞️ I’m looking to collaborate on iOS development projects using React Native
+- 💞️ I’m looking to collaborate on iOS or Web development projects, both front-end and back-end
 - 📫 You can reach me at dragdo3@gmail.com
 
 <!---
