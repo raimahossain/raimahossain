@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raimahossain
-- 👀 I’m interested in Software Engineering and Web Development
+- 👀 I’m currently working as a Front-End developer but aspiring to be a Full-Stack Engineer!
 - 💞️ I’m looking to collaborate on iOS or Web development projects, both front-end and back-end
 - 📫 You can reach me at dragdo3@gmail.com
 
